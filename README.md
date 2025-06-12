@@ -43,7 +43,7 @@ This Power BI dashboard presents an interactive and insightful analysis of sales
 
 - ├── Maven Cycles Sales Dashboard.pbix    # Power BI file
 - ├── README.md                            # Documentation
-- └── Maven Cycles Sales Dashboard snapshot.png  # ![image](https://github.com/user-attachments/assets/360723d5-49da-4941-a2ae-b0278275f2bc)
+- └── Maven Cycles Sales Dashboard snapshot.png  # ![Dashboard shapshot](https://github.com/user-attachments/assets/c687969c-32f6-41ec-abaa-6b8bb0564c7b)
 
 ---
 
